@@ -32,6 +32,7 @@ Linear Regression
 K-Nearest Neighbors (KNN) Regressor
 Decision Tree Regressor
 Random Forest Regressor
+
 📏 Evaluation Metric
 Root Mean Squared Error (RMSE) was used to compare model performance
 The best-performing model was selected based on lowest RMSE score
